@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: start;
+    font-family: sans-serif;
+}
+
+.titulo{
+    width: 531px;
+    height: 208px;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    gap: 30px;
+    color: gray;
+    font-family: sans-serif;
+}
+
+p{
+    width: 370px;
+}

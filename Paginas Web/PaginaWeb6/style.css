@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    width: 1440px;
+    height: 933px;
+    background-color: #FFFF;
+}
+.main{
+    display: flex;
+    align-items: start;
+}

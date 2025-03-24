@@ -1,17 +1,19 @@
 .header{
+    width: 629px;
+    height: 249px;
     display: flex;
-    justify-content: start;
     flex-direction: column;
     width: 1440px;
     height: 933px;
     background-color: #FFFF;
 }
-.main{
+
+.botones{
     display: flex;
-    align-items: start;
+    justify-content: start;
 }
+
 .button-1{
-    justify-content: center;
     padding: 15px;
     width: 100px;
     margin-bottom: 20px;
@@ -21,8 +23,8 @@
     background-color: #050505;
     color: #FFFF;
 }
+
 .button-2{
-    justify-content: center;
     padding: 15px;
     width: 100px;
     margin-bottom: 20px;
@@ -31,4 +33,12 @@
     size: 50px;
     background-color: white;
     color: #333333;
+}
+
+h1{
+    width: 629px;
+}
+
+p{
+    width: 629px;
 }

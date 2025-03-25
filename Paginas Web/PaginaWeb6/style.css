@@ -1,16 +1,17 @@
 .header{
-    width: 629px;
-    height: 249px;
     display: flex;
     flex-direction: column;
     width: 1440px;
     height: 933px;
+    margin-left: 50px;
+    margin-top: 150px;
     background-color: #FFFF;
 }
 
 .botones{
     display: flex;
     justify-content: start;
+    gap: 5px;
 }
 
 .button-1{

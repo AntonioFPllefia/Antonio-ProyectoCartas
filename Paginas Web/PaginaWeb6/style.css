@@ -39,6 +39,12 @@
 .lista{
     display: flex;
     flex-direction: row;
+    border: black solid;
+    border-radius: 24px;
+    padding: 24px;
+    width: 652px;
+    size: 118px;
+    gap: 80px;
 }
 
 h1{

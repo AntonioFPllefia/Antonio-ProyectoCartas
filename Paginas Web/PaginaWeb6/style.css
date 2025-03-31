@@ -47,6 +47,12 @@
     gap: 80px;
 }
 
+.watch{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+
 h1{
     width: 629px;
 }

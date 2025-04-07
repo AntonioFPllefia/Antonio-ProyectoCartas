@@ -1,36 +1,38 @@
-body{
-    font-family: ' Avenir ', sans-serif;
-    padding: 0;
-    margin: 0;
+body {
+  font-family: " Avenir ", sans-serif;
+  padding: 0;
+  margin: 0;
 }
 
-.main{
-    display: flex;
-    justify-content: start;
-    padding-top: 64px;
-    padding-left: 64px;
+.main {
+  display: flex;
+  justify-content: start;
+  padding-top: 64px;
+  padding-left: 64px;
 }
 
-
-
-.imagenes{
-    display: flex;
-    justify-content: center;
-    gap: 30px;
-    padding-left: 64px;
-    width: 1312px;
-    height: 559px;
+.titulo {
+  width: 550px;
 }
 
-.imagenes p{
-    width: 316px;
+.imagenes {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding-left: 64px;
+  width: 1312px;
+  height: 559px;
 }
 
-.imagene .texto p{
-    color: gray;
+.imagenes p {
+  width: 316px;
 }
 
-h1{
-    width: 833px;
-    height: 175px;
+.imagene .texto p {
+  color: gray;
+}
+
+h1 {
+  width: 833px;
+  height: 175px;
 }

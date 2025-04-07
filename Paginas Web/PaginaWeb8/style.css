@@ -1,0 +1,30 @@
+body {
+  background-color: #9c2004;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #ffff;
+  width: 487px;
+}
+
+p {
+  color: #ffff;
+  width: 487px;
+}
+
+button{
+    font-family: 'Work Sans';
+    width: 231px;
+    height: 82px;
+    border-radius: 36px;
+    background-color: #E5B94B;
+}
+
+.container {
+  display: flex;
+  justify-content: end;
+  padding-right: 50px;
+  gap: 40px;
+}

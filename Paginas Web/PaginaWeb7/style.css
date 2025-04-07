@@ -5,6 +5,11 @@
     padding-left: 64px;
 }
 
+.imagenes{
+    display: flex;
+    justify-content: center;
+}
+
 h1{
     width: 833px;
     height: 175px;

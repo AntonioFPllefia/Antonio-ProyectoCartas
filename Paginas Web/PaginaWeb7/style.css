@@ -1,0 +1,11 @@
+.main{
+    display: flex;
+    justify-content: start;
+    padding-top: 64px;
+    padding-left: 64px;
+}
+
+h1{
+    width: 833px;
+    height: 175px;
+}

@@ -5,26 +5,29 @@ body {
 }
 
 h1 {
-  color: #ffff;
   width: 487px;
+  font-weight: 700px;
 }
 
 p {
-  color: #ffff;
   width: 487px;
 }
 
-button{
-    font-family: 'Work Sans';
-    width: 231px;
-    height: 82px;
-    border-radius: 36px;
-    background-color: #E5B94B;
+button {
+  padding: 15px;
+  width: 125px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  background-color: #E5B94B;
+  color: #080808;
 }
 
-.container {
+.main {
   display: flex;
-  justify-content: end;
-  padding-right: 50px;
+  flex-direction: column;
+  align-items: end;
+  padding-right: 190px;
+  padding-top: 90px;
   gap: 40px;
+  color: #ffff;
 }

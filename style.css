@@ -5,6 +5,10 @@ body{
     background-color: beige;
   
   }
+
+  img{
+    width: 200px;
+  }
   
   .Container{
     background-color: black;

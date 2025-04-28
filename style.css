@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+    background-color: beige;
+  
+  }
+  
+  .Container{
+    background-color: black;
+  
+  }
+  
+  .nav-container{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  
+  }
+  
+  
+  
+  
+  .cajita-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    gap: 20px;
+  
+  }
+  
+  .cajita-main2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    gap: 20px;
+  
+  }
+  
+  .cajita-magica {
+    width: 250px;
+    height: 250px;
+    box-shadow: -2px 2px 19px 0px rgba(0,0,0,0.75);
+    color: black;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: flex-end; 
+    align-items: center; 
+    background-color: white;
+  }
+  
+  .texto-magico{
+    text-align: center;
+    font-size: 20px;
+    flex-direction: column;
+  }

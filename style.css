@@ -30,19 +30,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 50vh;
     gap: 20px;
-  
+    margin: 20px;
   }
   
-  .cajita-main2{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 10vh;
-    gap: 20px;
-  
-  }
   
   .cajita-magica {
     width: 250px;

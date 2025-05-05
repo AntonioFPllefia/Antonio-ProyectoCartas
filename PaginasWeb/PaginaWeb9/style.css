@@ -29,3 +29,28 @@ button{
     color: #FFFF;
     size: 24px;
 }
+
+.lista nav{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 88px;
+    padding-left: 88px;
+}
+
+.lista nav ul{
+    display: flex;
+    flex-direction: row;
+    width: 948px;
+    border-radius: 144px;
+    background-color: #FFFFFF99;
+    gap: 8px;
+    font: "Poppins";
+    color: #363830;
+}
+
+
+.lista nav ul p{
+    width: 204px;
+    size: 16px;
+    
+}
